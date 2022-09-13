@@ -2920,7 +2920,7 @@ function init() {
     })
 
     const myMap = new ymaps.Map("map", {
-        center: [55.76, 37.64],
+        center: [57.90, 60.09],
         zoom: 7,
         controls: [searchControls]
     })
